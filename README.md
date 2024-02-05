@@ -1,3 +1,7 @@
+## Description
+Conduct an analysis of tweets produced by Russian trolls during the 2016 US election, specifically tweets that mention Trump. 
+
+Involves use and manipulation of Pandas dataframes, CSV and TSV in order to produce the required statistic.
 ## Results
 Trump is explicitly mentioned only 2.2% in the dataset.
 ## Counting problems observed
